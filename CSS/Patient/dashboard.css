@@ -1,0 +1,22 @@
+html, body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-nav .nav-item a , .dropdown a  {
+    position: relative;
+    color: #777;
+    text-transform: uppercase;
+    margin-right: 10px;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+.dropdown-menu , .dropdown-menu a:hover {
+    background-color: #f8f88f;
+}
+
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}

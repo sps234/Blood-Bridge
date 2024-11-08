@@ -1,0 +1,19 @@
+html, body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(45deg, #b6ffb6, #66b2ff);
+}
+.form-container {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 50px auto;
+    max-width: 400px;
+}
+.navbar-shading {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); 
+}

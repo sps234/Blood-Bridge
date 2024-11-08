@@ -1,0 +1,44 @@
+html, body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-nav .nav-item a , .dropdown a {
+    position: relative;
+    color: rgba(0, 0, 0, .5);
+    text-transform: uppercase;
+    margin-right: 10px;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+.navbar-nav  li a:hover {
+    color: var( --text-color) !important;
+}
+
+.dropdown-menu , .dropdown-menu a:hover {
+    background-color: #f8f88f; 
+}
+#animated-image {
+height:25px;
+margin-top: 20px;
+animation: scaleAnimation 0.4s infinite alternate; 
+transform-origin: center; 
+}
+@keyframes scaleAnimation {
+0% {
+    transform: scale(1); 
+}
+100% {
+    transform: scale(1.25); 
+}
+}
+
+:root {
+    --background-color: #f5f5dc;  
+    --navbar-bg-color: #ff4a4a; 
+    --card-bg-color: #1abc9c;     
+    --card-hover-bg-color: #16a085;
+    --text-color: #ffffff;        
+}
