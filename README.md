@@ -1,6 +1,6 @@
 # Blood Bridge
 
-![alt](Assets/images/home.png)
+
 
 Blood Bank Management System (Blood Bridge) is a web-based application designed to efficiently manage blood donations, donors, and recipients. It provides an integrated platform for donors and recipients to ensure the availability of safe and life-saving blood for those in need.
 
