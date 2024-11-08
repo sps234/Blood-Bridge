@@ -13,8 +13,6 @@ Blood Bank Management System (Blood Bridge) is a web-based application designed 
 - [Flowchart](#flowchart)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
@@ -124,21 +122,7 @@ graph TD
 - **Bootstrap**: Front-end framework for styling.
 
 
-## Contributing
 
-Contributions are always welcome! If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or fix:
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-3. Commit your changes and push to your fork:
-   ```bash
-   git commit -m 'Add some feature'
-   git push origin feature/your-feature
-   ```
-4. Create a pull request on the original repository's `main` branch.
 
 
 
