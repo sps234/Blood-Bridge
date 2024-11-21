@@ -39,7 +39,7 @@ To set up the Blood Bridge application with XAMPP in your Linux environment, fol
 
 4. Access the application in your web browser at
    ```bash
-   http://localhost/Blood Bridge/index.php
+   [http://localhost/projects/org/Blood-Bridge-Website/]
    ```
 
 ## Usage
